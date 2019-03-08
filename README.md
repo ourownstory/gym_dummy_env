@@ -2,7 +2,8 @@
 The simplest possible implementation of an OpenAI gym environment
 
 ## Motivation
-How to create your own gym environment from scratch -> Help to get started
+* How to create your own gym environment from scratch -> Help to get started
+* Debugging a Reinforcement Learning algorithm
 
 ## Guide
 Great resource:
