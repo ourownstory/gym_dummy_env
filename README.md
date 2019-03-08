@@ -14,4 +14,4 @@ After cloning this repo, don't forget to install your new python package with
 ```bash
 pip install -e ~/github/gym_dummy_env/
 ```
-This should alos intall the dependencies (in this case, gym)
+This should also intall the dependencies (in this case, gym)
